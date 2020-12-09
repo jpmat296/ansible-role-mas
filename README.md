@@ -4,6 +4,8 @@
 
 Installs [mas](https://github.com/mas-cli/mas) on macOS, and installs macOS apps from the Mac App Store.
 
+Force test
+
 ## Requirements
 
   - **Homebrew**: Requires `homebrew` already installed (you can use `geerlingguy.homebrew` to install it on your Mac).
